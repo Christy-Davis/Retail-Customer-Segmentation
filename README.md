@@ -110,7 +110,8 @@ Region: UK-based online retailer
 Christy Davis
 
 GitHub: Christy-Davis
-LinkedIn: (add your LinkedIn profile link here)
+LinkedIn: https://www.linkedin.com/in/christy-davis-maliyekkal
+
 
 
 🌟 Skills Demonstrated
